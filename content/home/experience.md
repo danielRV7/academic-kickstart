@@ -30,4 +30,13 @@ date_format = "Jan 2006"
   * OpenCV
   """
 
+  [[experience]]
+    title = "Researcher as Network Engineer"
+    company = "Universidad de Murcia"
+    company_url = "https://www.um.es"
+    location = "Murcia"
+    date_start = "2019-11-19"
+    description = """ Participating in Horizon2020 European Projects as researcher. Working in 5G-MOBIX for CAAM vehicles.
+    """
+
 +++

@@ -71,19 +71,6 @@ subtitle = "Programming languages, techniques and other tools"
 [[feature]]
   name = "Android"
 
-[[feature]]
-  name = "C++"
-
-[[feature]]
-  name = "HTML5"
-
-[[feature]]
-  name = "CSS"
-
-
-
-
-
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
