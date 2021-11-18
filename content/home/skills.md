@@ -45,6 +45,9 @@ subtitle = "Programming languages, techniques and other tools"
   name = "Openstack"
 
 [[feature]]
+  name = "Jenkins"
+
+[[feature]]
   name = "JavaFX"
 
 [[feature]]
