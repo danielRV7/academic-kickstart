@@ -33,16 +33,16 @@ subtitle = "Programming languages, techniques and other tools"
   name = "Python"
 
 [[feature]]
-  name = "C"
+  name = "OpenSource-Mano"
 
 [[feature]]
-  name = "C++"
+  name = "Network Services"
 
 [[feature]]
-  name = "HTML5"
+  name = "Embedded Systems"
 
 [[feature]]
-  name = "CSS"
+  name = "Openstack"
 
 [[feature]]
   name = "JavaFX"
