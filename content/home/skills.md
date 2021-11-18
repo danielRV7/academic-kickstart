@@ -33,7 +33,7 @@ subtitle = "Programming languages, techniques and other tools"
   name = "Python"
 
 [[feature]]
-  name = "OpenSource-Mano"
+  name = "OpenSource-MANO"
 
 [[feature]]
   name = "Network Services"
