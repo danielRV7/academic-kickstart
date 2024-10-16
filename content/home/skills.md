@@ -27,10 +27,10 @@ subtitle = "Programming languages, techniques and other tools"
   icon_pack = "fas"
 
 [[feature]]
-  name = "Java"
+  name = "Python"
 
 [[feature]]
-  name = "Python"
+  name = "Golang"
 
 [[feature]]
   name = "OpenSource-MANO"
@@ -39,16 +39,13 @@ subtitle = "Programming languages, techniques and other tools"
   name = "Network Services"
 
 [[feature]]
-  name = "Embedded Systems"
-
-[[feature]]
   name = "Openstack"
 
 [[feature]]
-  name = "Jenkins"
+  name = "VNF"
 
 [[feature]]
-  name = "JavaFX"
+  name = "Java"
 
 [[feature]]
   name = "Docker"
@@ -57,13 +54,13 @@ subtitle = "Programming languages, techniques and other tools"
   name = "LaTeX"
 
 [[feature]]
-  name = "QT"
+  name = "Kubernetes"
 
 [[feature]]
-  name = "GStreamer"
+  name = "Scripting"
 
 [[feature]]
-  name = "Maven"
+  name = "VS Code"
 
 [[feature]]
   name = "Git"
@@ -72,7 +69,7 @@ subtitle = "Programming languages, techniques and other tools"
   name = "Linux"
 
 [[feature]]
-  name = "Android"
+  name = "CICD"
 
 # Uncomment to use emoji icons.
 # [[feature]]

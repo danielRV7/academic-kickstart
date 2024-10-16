@@ -30,13 +30,40 @@ date_format = "Jan 2006"
   * OpenCV
   """
 
-  [[experience]]
-    title = "Researcher as Network Engineer"
-    company = "Universidad de Murcia"
-    company_url = "https://www.um.es"
-    location = "Murcia"
-    date_start = "2019-11-19"
-    description = """ Participating in Horizon2020 European Projects as researcher. Working in 5G-MOBIX for CAAM vehicles.
-    """
+[[experience]]
+  title = "Researcher as Network Engineer"
+  company = "Universidad de Murcia"
+  company_url = "https://www.um.es"
+  location = "Murcia"
+  date_start = "2019-11-19"
+  date_end = "2023-05-07"
+  description = """ Participated in Horizon2020 European Projects as researcher. Worked in 5G-MOBIX with CAAM vehicles and 5GASP with Digital Twins.
+
+  * Python
+  * Scripting
+  * Jenkins
+  * CassandraDB
+  * OpenSource MANO
+  * Openstack
+  * Network Services
+  * NFV 
+  """
+
+[[experience]]
+  title = "Application/Software Developer"
+  company = "Eviden"
+  company_url = "https://www.eviden.com"
+  location = "Working Remotely"
+  date_start = "2023-05-09"
+  description = """ Participating in European and National Projects as researcher; HORSE-6G and UNICO-6GENABLERS. Also working on internal company software products.
+
+  * Golang
+  * Scripting
+  * Testing
+  * Docker and Kubernetes
+  * API REST Swagger
+  * Stackstorm 
+  """
+
 
 +++

@@ -18,19 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include software development, cloud computing and virtualization.
 
 interests:
-- Software development
-- Network security
-- Mobile development
-- User interfaces
+- Software Development
+- Network Security
 - Internet of Things
 - Virtualization
-- Multimedia streaming
+- Cloud Computing 
 
 education:
   courses:
+  - course: Master Degree in Application and Website Development
+    institution: Universitat Oberta de Catalunya
+    year: 2024
   - course: BSc in Computer Engineering, Information Technologies specialization
     institution: University of Murcia
     year: 2020
